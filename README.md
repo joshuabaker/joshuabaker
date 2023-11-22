@@ -1,6 +1,6 @@
 ### Software engineer, designer and entrepreneur
 
-Founder of [@tuple](https://www.tuple.co/)
+Founder of [@tuple](https://github.com/tuple)
 
 Working to establish, improve and grow businesses
 
