@@ -1,4 +1,10 @@
-### Hi there 👋
+### Software engineer, designer and entrepreneur
+
+Founder of [@tuple](https://www.tuple.co/)
+
+Working to establish, improve and grow businesses
+
+[joshuabaker.com](https://www.joshuabaker.com/)
 
 <!--
 **joshuabaker/joshuabaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
